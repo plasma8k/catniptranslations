@@ -1,1 +1,1 @@
-# YimMenu Translations
+# Catnip Translations
