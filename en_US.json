@@ -29,6 +29,7 @@
   "BACKEND_FAST_QUIT_DESC": "Closes the GTA V process instantly.",
   "BACKEND_FLIP": "Rotate 180 Degrees",
   "BACKEND_FLIP_DESC": "Turns the car around.",
+  "BACKEND_LOOPED_FLYING_AXE": "Axe goes WHEEEEEEE!",
   "BACKEND_FLYING_VEHICLE": "Flying Vehicle",
   "BACKEND_FLYING_VEHICLE_DESC": "Allows the player to fly the car with the mouse and keyboard.",
   "BACKEND_GTA_WINDOW_HOOK": "GTA Window Hook",
